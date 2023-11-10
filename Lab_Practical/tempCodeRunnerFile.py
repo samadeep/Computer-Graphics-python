@@ -1,0 +1,13 @@
+pygame.draw.rect(screen, GREEN, (50, 50, 100, 100), 2)
+# pygame.draw.rect(screen, BLUE, (250, 50, 100, 100), 2)
+# pygame.draw.rect(screen, YELLOW, (50, 250, 100, 100), 2)
+# pygame.draw.rect(screen, RED, (250, 250, 100, 100), 2)
+
+# pygame.draw.line(screen, BLACK, (100, 50), (100, 150), 2)
+# pygame.draw.line(screen, BLACK, (300, 50), (300, 150), 2)
+# pygame.draw.line(screen, BLACK, (50, 100), (150, 100), 2)
+# pygame.draw.line(screen, BLACK, (50, 300), (150, 300), 2)
+# pygame.draw.line(screen, BLACK, (250, 100), (350, 100), 2)
+# pygame.draw.line(screen, BLACK, (250, 300), (350, 300), 2)
+# pygame.draw.line(screen, BLACK, (100, 250), (100, 350), 2)
+# pygame.draw.line(screen, BLACK, (300, 250), (300, 350), 2)
